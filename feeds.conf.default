@@ -1,4 +1,4 @@
-src-git packages https://github.com/NueXini/NueXini_Packages
+src-git packages https://github.com/koksaver/packages_sdf
 src-git luci https://github.com/openwrt/luci.git;master
 src-git routing https://github.com/koksaver/routing.git;master
 src-git-full telephony https://github.com/openwrt/telephony.git;openwrt-24.10
