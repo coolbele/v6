@@ -1,4 +1,4 @@
 src-git packages https://github.com/koksaver/packages_sdf;2023
-src-git luci https://github.com/openwrt/luci.git;openwrt-22.03
-src-git routing https://github.com/koksaver/routing.git;openwrt-22.03
-src-git-full telephony https://github.com/openwrt/telephony.git;openwrt-22.03
+src-git luci https://github.com/openwrt/luci.git;openwrt-23.05
+src-git routing https://github.com/koksaver/routing.git;openwrt-23.05
+src-git-full telephony https://github.com/openwrt/telephony.git;openwrt-23.05
